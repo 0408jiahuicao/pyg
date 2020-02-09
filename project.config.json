@@ -1,0 +1,13 @@
+{
+  "description": "品优购项目",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wx50aae4a5e086b5a7",
+  "projectname": "pyg",
+  "miniprogramRoot": "./dist"
+}
